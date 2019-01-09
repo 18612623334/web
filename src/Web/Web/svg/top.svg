@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 83 83" style="enable-background:new 0 0 83 83;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#filter-2);}
+	.st1{fill:#FFD811;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'DINPro-Bold';}
+	.st4{font-size:14px;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:3;}
+</style>
+<filter  filterUnits="objectBoundingBox" height="237.8%" id="filter-2" width="237.8%" x="-68.9%" y="-64.4%">
+	<feOffset  dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.988235294   0 0 0 0 0.843137255   0 0 0 0 0.568627451  0 0 0 0.225656703 0">
+		</feColorMatrix>
+</filter>
+<title>top</title>
+<desc>Created with Sketch.</desc>
+<g id="首页">
+	<g id="_x30_1_x5F_首页" transform="translate(-1603.000000, -2720.000000)">
+		<g id="top" transform="translate(1622.000000, 2737.000000)">
+			<g id="Oval-13">
+				<g class="st0">
+					<circle id="path-1_1_" cx="22.5" cy="22.5" r="22.5"/>
+				</g>
+				<circle class="st1" cx="22.5" cy="22.5" r="22.5"/>
+			</g>
+			<g id="Group-16" transform="translate(10.000000, 11.000000)">
+				<text transform="matrix(1 0 0 1 0 22)" class="st2 st3 st4">TOP</text>
+				<path id="Path-13" class="st5" d="M6,5.7l5.6-5.6c0.8-0.8,2-0.8,2.8,0L20,5.8"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

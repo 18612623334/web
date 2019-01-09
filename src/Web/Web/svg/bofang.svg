@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="73px" viewBox="0 0 73 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>bofang</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 19 0 19 27 0 27"></polygon>
+    </defs>
+    <g id="bofang" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <circle id="Oval" fill="#FFFFFF" opacity="0.300000012" cx="36.5" cy="36.5" r="36.5"></circle>
+            <g id="Page-1" transform="translate(30.000000, 23.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2" opacity="0.699898098"></g>
+                <path d="M17.7362205,11.3331765 C13.8395095,8.27562095 7.02026514,3.51942339 3.12355409,0.631732012 C1.59270332,-0.557317379 0.201020808,-0.0477247829 0.0618525563,1.9906456 C-0.0773156954,7.76602836 0.0618525563,18.9770655 0.0618525563,24.9223124 C0.201020808,27.130547 1.73187158,27.4702754 3.12355409,26.4510902 C7.02026514,23.5633988 13.7003412,18.6373371 17.5970523,15.7496457 C17.5970523,15.9195099 20.6587538,13.8811395 17.7362205,11.3331765" id="Fill-1" fill="#FFD811" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

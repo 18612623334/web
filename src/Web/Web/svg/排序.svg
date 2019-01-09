@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="85px" viewBox="0 0 59 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>排序</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 58.999788 0 58.999788 84.6667 0 84.6667"></polygon>
+    </defs>
+    <g id="排序" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M24.2544871,82.16675 C26.9660938,85.49975 31.0339107,85.49975 33.746331,82.16675 L51.372995,60.49975 C54.0854152,57.16675 53.4069034,54.66675 49.3390865,54.66675 L8.66091801,54.66675 C4.59310116,54.66675 3.91540287,57.16675 6.62700959,60.49975 L24.2544871,82.16675 Z" id="Fill-1" fill="#8E8E8E" mask="url(#mask-2)"></path>
+            <path d="M24.2544871,2.49975 C26.9660938,-0.83325 31.0339107,-0.83325 33.746331,2.49975 L51.372995,24.16675 C54.0854152,27.49975 53.4069034,29.99975 49.3390865,29.99975 L8.66091801,29.99975 C4.59310116,29.99975 3.91540287,27.49975 6.62700959,24.16675 L24.2544871,2.49975 Z" id="Path" fill="#8E8E8E" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

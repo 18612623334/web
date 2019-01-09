@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="42px" viewBox="0 0 35 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>上传成功</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.00106060606 0.0370676157 9.03166667 0.0370676157 9.03166667 8.9449089 0.00106060606 8.9449089"></polygon>
+        <polygon id="path-3" points="0 41.9629324 34.9409091 41.9629324 34.9409091 0.149466192 0 0.149466192"></polygon>
+    </defs>
+    <g id="申请成为老师" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03_上传资料" transform="translate(-1665.000000, -304.000000)">
+            <g id="Group-5-Copy" transform="translate(1448.000000, 169.000000)">
+                <g id="021" transform="translate(217.000000, 135.000000)">
+                    <g id="Page-1">
+                        <path d="M1.76578788,0.149466192 L25.9101818,0.149466192 L34.9407879,9.05735231 L34.9407879,40.2212028 C34.9407879,41.1842135 34.1492727,41.9629324 33.1744242,41.9629324 L1.76578788,41.9629324 C0.789424242,41.9629324 3.03030303e-05,41.1842135 3.03030303e-05,40.2212028 L3.03030303e-05,1.89164413 C3.03030303e-05,0.929679715 0.789424242,0.149466192 1.76578788,0.149466192" id="Fill-1" fill="#FFFFFF"></path>
+                        <g id="Group-5" transform="translate(25.909091, 0.112399)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-4"></g>
+                            <path d="M1.76681818,8.9449089 C0.792575758,8.9449089 0.00106060606,8.16484484 0.00106060606,7.20273096 L0.00106060606,0.0370227758 L9.03166667,8.9449089 L1.76681818,8.9449089 Z" id="Fill-3" fill="#CDD6E0" mask="url(#mask-2)"></path>
+                        </g>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-7"></g>
+                        <polygon id="Fill-6" fill="#CDD6E0" mask="url(#mask-4)" points="3.98590909 15.6241495 15.3039394 15.6241495 15.3039394 3.63427046 3.98590909 3.63427046"></polygon>
+                        <polygon id="Fill-8" fill="#CDD6E0" mask="url(#mask-4)" points="3.98590909 21.5552669 31.8789394 21.5552669 31.8789394 19.6573452 3.98590909 19.6573452"></polygon>
+                        <polygon id="Fill-9" fill="#CDD6E0" mask="url(#mask-4)" points="17.9325758 27.1968683 31.8768182 27.1968683 31.8768182 25.2981993 17.9325758 25.2981993"></polygon>
+                        <polygon id="Fill-10" fill="#FFDA00" mask="url(#mask-4)" points="20.3727273 15.6241495 31.8768182 15.6241495 31.8768182 13.7260783 20.3727273 13.7260783"></polygon>
+                        <polygon id="Fill-11" fill="#CDD6E0" mask="url(#mask-4)" points="20.935 32.8380214 31.8768182 32.8380214 31.8768182 30.9393523 20.935 30.9393523"></polygon>
+                        <polygon id="Fill-12" fill="#CDD6E0" mask="url(#mask-4)" points="20.935 38.4785765 31.7213636 38.4785765 31.7213636 36.5812527 20.935 36.5812527"></polygon>
+                        <polyline id="Path-2" stroke="#FFD811" stroke-width="2" stroke-linecap="square" mask="url(#mask-4)" points="5 34 9 38 16 31"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="726px" height="829px" viewBox="0 0 726 829" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>pic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="51.4062434%" y1="7.16859598%" x2="67.3481208%" y2="88.4353816%" id="linearGradient-1">
+            <stop stop-color="#FBF38F" offset="0%"></stop>
+            <stop stop-color="#FFE178" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="pic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bg02" transform="translate(363.000000, 414.500000) rotate(90.000000) translate(-363.000000, -414.500000) translate(-51.000000, 52.000000)">
+            <path d="M0.00366780274,5.28218502 C-0.634529874,116.328581 82.0120693,204.39986 247.943465,269.496023 C413.874861,334.592186 482.162013,436.703815 452.80492,575.830908 C443.867707,620.174277 457.268636,655.429014 493.007706,681.595119 C546.61631,720.844276 666.285711,722.792978 762.968991,611.250879 C827.424511,536.889481 843.697329,333.139187 811.787445,0 L0.00366780274,5.28218502 Z" id="Path-11" fill-opacity="0.45" fill="url(#linearGradient-1)"></path>
+            <circle id="Oval-11" fill="#FFD811" cx="480" cy="717" r="8"></circle>
+            <circle id="Oval-11-Copy" fill="#F9D7CC" cx="424" cy="687" r="3"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="537px" height="663px" viewBox="0 0 537 663" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>pic02</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="51.4062434%" y1="7.16859598%" x2="67.1715337%" y2="87.5351945%" id="linearGradient-1">
+            <stop stop-color="#FBF38F" offset="0%"></stop>
+            <stop stop-color="#FFC552" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="pic02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3">
+            <path d="M99.1028072,122.651958 C125.269583,150.930063 155.099707,162.450773 188.593179,157.214086 C238.833388,149.359057 269.448515,136.791011 317.333715,106.156397 C365.218914,75.5217838 445.289247,49.6001878 513.584531,113.225924 C581.879815,176.851659 483.754407,311.95816 435.869207,344.163779 C387.984008,376.369398 383.810871,435.232895 397.404048,491.052823 C410.997224,546.872752 414.92224,632.492569 319.151842,658.414165 C223.381444,684.335761 163.721196,590.075412 47.5407127,630.921563 C-29.9129427,658.152331 -12.7255779,488.729129 99.1028072,122.651958 Z" id="Path-9" fill-opacity="0.45" fill="url(#linearGradient-1)"></path>
+            <circle id="Oval-4" fill="#FFD811" opacity="0.233469203" cx="437" cy="41" r="9"></circle>
+            <circle id="Oval-4-Copy" fill="#FFD811" opacity="0.233469203" cx="392" cy="3" r="3"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="34px" viewBox="0 0 60 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>下拉</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0005 59.59955 0.0005 59.59955 33.1225 0 33.1225"></polygon>
+    </defs>
+    <g id="下拉" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M-0.0002,3.4987 C-0.0002,2.6927 0.3088,1.8877 0.9218,1.2737 C2.1508,0.0447 4.1398,0.0447 5.3688,1.2737 L29.6238,25.5287 L54.2298,0.9227 C55.4598,-0.3073 57.4478,-0.3073 58.6778,0.9227 C59.9068,2.1517 59.9068,4.1407 58.6778,5.3697 L31.8478,32.1997 C30.6178,33.4307 28.6298,33.4307 27.3998,32.1997 L0.9218,5.7227 C0.3088,5.1087 -0.0002,4.3037 -0.0002,3.4977 L-0.0002,3.4987 Z" id="Fill-1" fill="#333333" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

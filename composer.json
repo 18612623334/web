@@ -1,0 +1,15 @@
+{
+    "name": "wangliang/laravel-web",
+    "authors": [
+        {
+            "name": "wangliang",
+            "email": "970428448@qq.com"
+        }
+    ],
+    
+    "autoload": {
+        "psr-4": {
+            "Wangliang\\Web\\": "src/"
+        }
+    }
+}

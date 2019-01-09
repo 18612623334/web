@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>dui</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="12" height="12" rx="2"></rect>
+        <polygon id="path-2" points="0 0 7.96903896 0 7.96903896 4.97282692 0 4.97282692"></polygon>
+    </defs>
+    <g id="dui" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5">
+            <g id="Rectangle-14">
+                <use fill="#FFD811" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#FFD811" stroke-width="1" x="0.5" y="0.5" width="11" height="11" rx="2"></rect>
+            </g>
+            <g id="页面-1" transform="translate(2.000000, 4.000000)">
+                <g id="Page-1">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M3.01112208,4.97282692 C2.90483636,4.97282692 2.79855065,4.93532692 2.71745974,4.86023077 L0.121615584,2.457875 C-0.0405662338,2.30777885 -0.0405662338,2.06441346 0.121615584,1.91431731 C0.283849351,1.76422115 0.54681039,1.76422115 0.708992208,1.91431731 L3.01112208,4.04489423 L7.26010909,0.112538462 C7.42229091,-0.0375576923 7.68525195,-0.0375576923 7.84743377,0.112538462 C8.00961558,0.262634615 8.00961558,0.506 7.84743377,0.656096154 L3.30478442,4.86023077 C3.22369351,4.93532692 3.11740779,4.97282692 3.01112208,4.97282692" id="Fill-1" fill="#333333" mask="url(#mask-3)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
